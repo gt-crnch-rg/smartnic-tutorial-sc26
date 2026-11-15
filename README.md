@@ -10,7 +10,7 @@ Tutorial on SmartNICs for Supercomputing 2026
 
 ## Audience Tutorial Survey
 
-Please fill out the this short (3 question) attendee survey here in addition to the ISC survey. This survey will let you give us direct feedback and follow up for future SmartNIC-related opportunities!
+Please fill out this short (3 question) attendee survey here in addition to the SC survey. This survey will let you give us direct feedback and follow up for future SmartNIC-related opportunities!
 
 - [SC 2026 Survey](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc26&id=sess175&eval_stype=stype185)
 - [DPU Tutorial Content Feedback Survey](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg82dnXP1iqRHvc472TcBXahUQ0lXWTRJMUFHMTJNUFFMS08yVFRGQ01PQy4u)
@@ -60,4 +60,4 @@ For instructions on how to log in to the cluster and run the examples, please se
 
 ## Slides
 
-Slides will be shared under the [slides] folder the morning of the tutorial!
+The tutorial slides are available as a PDF: [SC26 SmartNIC Tutorial Slides](slides/sc-smartnic-tutorial-2026-slides-public.pdf)
