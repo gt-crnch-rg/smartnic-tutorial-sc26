@@ -38,7 +38,7 @@ Please fill out the this short (3 question) attendee survey here in addition to 
 | **10:00-10:30** | **BREAK** | |
 | 10:30-11:30 | Hands-on DOCA/P4 | Attendees follow along in compiling and running test examples |
 | 11:30-12:00 | HPC Programming – Part 1 | MPI offload; DPA programming |
-| *12:00-1:30* | *LUNCH* | |
+| **12:00-1:30** | **LUNCH** | |
 | 1:30-2:15 | Hands-on with DPA Programming | DPA hands on; additional hands-on with DOCA/P4 |
 | 2:15-2:45 | HPC Programming – Part 2 | OpenMP offload |
 | 2:45-3:00 | Hands-on HPC Demo – OpenMP/MPI Offload with ODOS | Talk through ODOS demos; additional hands-on time with DOCA/P4/DPA |
