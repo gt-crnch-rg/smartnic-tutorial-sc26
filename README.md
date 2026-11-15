@@ -8,6 +8,13 @@ Tutorial on SmartNICs for Supercomputing 2026
 
 ![Chicago River](fig/chicago_river.jpg)
 
+## Audience Tutorial Survey
+
+Please fill out the this short (3 question) attendee survey here in addition to the ISC survey. This survey will let you give us direct feedback and follow up for future SmartNIC-related opportunities!
+
+- [SC 2026 Survey](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc26&id=sess175&eval_stype=stype185)
+- [DPU Tutorial Content Feedback Survey](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg82dnXP1iqRHvc472TcBXahUQ0lXWTRJMUFHMTJNUFFMS08yVFRGQ01PQy4u)
+
 ## Presenters
 
 * Elie Kfoury [(University of South Carolina)](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/elie_kfoury.php)
@@ -49,8 +56,8 @@ We have the following examples we will be working through in the tutorial using 
 - P4 examples - from USC Netlab training 
 - ODOS examples - from BSC
 
-For instructions on how to log in to the cluster and run the examples, please see this linked [Google Doc]() closer to the event.
+For instructions on how to log in to the cluster and run the examples, please see the [hands-on README](https://github.com/gt-crnch-rg/smartnic-tutorial-sc26/blob/main/hands-on/README.md).
 
 ## Slides
 
-Slides will be shared under the [slides] folder after the tutorial!
+Slides will be shared under the [slides] folder the morning of the tutorial!
