@@ -34,14 +34,14 @@ Please fill out the this short (3 question) attendee survey here in addition to 
 | 8:30-8:40 | Introduction | Attendee survey; intro to hands-on activities |
 | 8:40-8:55 | Communication Offloading | SmartNIC overview, DPU examples, and DPU programming models |
 | 8:55-9:15 | SmartNIC Use Cases | Packet processing, cybersecurity, and AI/HPC |
-| 9:15-9:35 | Infrastructure Software – DOCA and P4 Introduction | Brief introduction to DOCA/P4 |
-| 9:35-10:00 | Hands-on DOCA/P4 | Attendees follow along in compiling and running test examples |
+| 9:15-10:00 | Infrastructure Software – DOCA and P4 Introduction | Introduction to DOCA/P4 |
 | **10:00-10:30** | **BREAK** | |
-| 10:30-11:00 | HPC Programming – Part 1 | MPI offload; DPA programming |
-| 11:00-12:00 | Hands-on with DPA Programming | Additional hands-on with DOCA/P4 |
+| 10:30-11:30 | Hands-on DOCA/P4 | Attendees follow along in compiling and running test examples |
+| 11:30-12:00 | HPC Programming – Part 1 | MPI offload; DPA programming |
 | *12:00-1:30* | *LUNCH* | |
-| 1:30-2:00 | HPC Programming – Part 2 | OpenMP offload |
-| 2:00-3:00 | Hands-on HPC Demo – OpenMP/MPI Offload with ODOS | Additional hands-on time with DOCA/P4/DPA |
+| 1:30-2:15 | Hands-on with DPA Programming | DPA hands on; additional hands-on with DOCA/P4 |
+| 2:15-2:45 | HPC Programming – Part 2 | OpenMP offload |
+| 2:45-3:00 | Hands-on HPC Demo – OpenMP/MPI Offload with ODOS | Talk through ODOS demos; additional hands-on time with DOCA/P4/DPA |
 | **3:00-3:30** | **BREAK** | |
 | 3:30-3:40 | Tutorial Survey | |
 | 3:40-4:00 | Storage Acceleration | Discussion of use cases for SmartNICs with storage systems for AI |
