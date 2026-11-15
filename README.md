@@ -27,7 +27,7 @@ Please fill out this short (3 question) attendee survey here in addition to the 
 
 **Abstract:** The past few years have witnessed an increased level of support for and deployment of programmable network adapters, known as "SmartNICs." These enhanced network devices offer standard packet processing capabilities as well as advanced "in-network" computing features built around programmable lightweight processing cores, FPGAs, and even CPU- and GPU-based platforms capable of running separate operating systems. SmartNICs have gained rapid adoption for data center tasks, including infrastructure management, packet filtering, and I/O acceleration. Increasingly these devices are also being explored for high-performance computing (HPC) and AI application acceleration. This tutorial provides an in-depth exploration of the state of the art in SmartNICs and the emerging software ecosystems that support them. Attendees will participate in hands-on exercises designed to demonstrate how SmartNICs can be leveraged to accelerate HPC and AI applications. Topics include packet processing frameworks such as P4, I/O acceleration techniques, MPI offloading, and algorithmic adaptations for utilizing SmartNIC processors. Participants will have the opportunity to run these exercises on cutting-edge platforms, including NVIDIA BlueField-3 Data Processing Units (DPUs), using cloud-based environments such as USC’s NETLAB and the FABRIC testbed. The tutorial will also highlight additional strategies for optimizing applications to effectively use SmartNICs as communication accelerators in HPC systems.
 
-## Agenda (Tentative)
+## Agenda
 
 | Time (CST) | Topic | Details |
 | ---------- | ----- | ------- |
